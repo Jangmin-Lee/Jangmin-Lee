@@ -2,7 +2,7 @@
 
 Hi 👋 Nice to see you!
 
-## 🤔 bios
+## 🤔 TMIs
 - KAIST School of computing (2016 ~ )
 - Crawler & Backend developer (Part time) at @BABLABS (2017 ~ 2019)
 - KAIST System Security LAB (2019 ~ 2019.7)
