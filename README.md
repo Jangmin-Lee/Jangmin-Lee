@@ -1,16 +1,30 @@
-### Hi there 👋
+### Lee, Jangmin
 
-<!--
-**Jangmin-Lee/Jangmin-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 Nice to see you!
 
-Here are some ideas to get you started:
+## 🤔 bios
+- KAIST School of computing (2016 ~ )
+- Crawler & Backend developer (Part time) at @BABLABS (2017 ~ 2019)
+- KAIST System Security LAB (2019 ~ 2019.7)
+- KAIST Developer club include (2016.7 ~ 2019.10)
+- KAIST Developer club include President (2018 ~ 2019.10)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Working on
+- @tanker-fund as a Backend Developer (2019.10 ~ )
+
+## 💬 Languages
+- Python (Intermediate)
+- Rust (Beginner)
+- TypeScript (Beginner)
+- Scala (Beginner)
+
+## ⚡ Stacks
+- Infra : terraform, aws ec2/ ecr/ rds/ elb/ S3, jenkins 
+- DB : MariaDB, MySQL, PostgreSQL, Redis, rabbitMQ + Celery
+- Flask, Seaborn, Pandas, BS4, Marshmallow
+
+## 🌱 Studying
+- English
+- NLP
+- Rust
+
