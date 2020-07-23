@@ -27,5 +27,3 @@ Hi 👋 Nice to see you!
 - English
 - NLP
 - Rust
-
-[![Jangmin-Lee github stats](https://github-readme-stats.vercel.app/api?username=Jangmin-Lee&show_icons=true)](https://github.com/Jangmin-Lee/Jangmin-Lee)
