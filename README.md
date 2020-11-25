@@ -11,7 +11,7 @@ Hi 👋 Nice to see you!
 - @tanker-fund as a Backend Developer (2019.10 ~ 2020.11)
 
 ## 🔭 Working on
-- @rtzr infra & Backend Developer (2020.11 ~ )
+- @returnzero infra & Backend Developer (2020.11 ~ )
 
 
 ## 💬 Languages
@@ -19,13 +19,16 @@ Hi 👋 Nice to see you!
 - Rust (Beginner)
 - TypeScript (Beginner)
 - Scala (Beginner)
+- go (Beginner)
+- ruby (Beginner)
+
 
 ## ⚡ Stacks
-- Infra : terraform, aws ec2/ ecr/ rds/ elb/ S3, jenkins 
+- Infra : terraform + ansible, aws ec2/ ecr/ rds/ elb/ S3, jenkins 
 - DB : MariaDB, MySQL, PostgreSQL, Redis, rabbitMQ + Celery
 - Flask, Seaborn, Pandas, BS4, Marshmallow
 
 ## 🌱 Studying
 - English
 - NLP
-- Rust
+- Rust, go, Ruby
