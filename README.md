@@ -24,7 +24,7 @@ Hi 👋 Nice to see you!
 
 
 ## ⚡ Stacks
-- Infra : terraform + ansible, aws ec2/ ecr/ rds/ elb/ S3, jenkins 
+- Devops & Infra : terraform + ansible, aws ec2/ ecr/ rds/ elb/ S3, jenkins 
 - DB : MariaDB, MySQL, PostgreSQL, Redis, rabbitMQ + Celery
 - Flask, Seaborn, Pandas, BS4, Marshmallow
 
