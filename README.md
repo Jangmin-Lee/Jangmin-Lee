@@ -16,6 +16,7 @@ Hi 👋 Nice to see you!
 
 ## 💬 Languages
 - Python (Intermediate)
+- Groovy (Beginner)
 - Rust (Beginner)
 - TypeScript (Beginner)
 - Scala (Beginner)
@@ -24,7 +25,7 @@ Hi 👋 Nice to see you!
 
 
 ## ⚡ Stacks
-- Devops & Infra : terraform + ansible, aws ec2/ ecr/ rds/ elb/ S3, jenkins 
+- Devops & Infra : terraform + ansible, aws ec2/ ecr/ rds/ elb/ S3, jenkins, grafana, influxdb
 - DB : MariaDB, MySQL, PostgreSQL, Redis, rabbitMQ + Celery
 - Flask, Seaborn, Pandas, BS4, Marshmallow
 
