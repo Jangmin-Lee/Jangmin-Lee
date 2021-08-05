@@ -11,7 +11,7 @@ Hi 👋 Nice to see you!
 - @tanker-fund as a Backend Developer (2019.10 ~ 2020.11)
 
 ## 🔭 Working on
-- @returnzero infra & Backend Developer (2020.11 ~ )
+- @returnzero devops & Backend Developer (2020.11 ~ )
 
 
 ## 💬 Languages
