@@ -25,11 +25,13 @@ Hi 👋 Nice to see you!
 
 
 ## ⚡ Stacks
-- Devops & Infra : terraform + ansible, aws ec2/ ecr/ rds/ elb/ S3, jenkins, grafana, influxdb
-- DB : MariaDB, MySQL, PostgreSQL, Redis, rabbitMQ + Celery
-- Flask, Seaborn, Pandas, BS4, Marshmallow
+- Infra : terraform + ansible, aws kr/ cn region, naver-gov/ fin cloud
+- Devops : jenkins, grafana, telegraf, Kafka, ElasticSearch, rabbitMQ, Kibana, Amplitude, Github Action
+- DB : MariaDB, MySQL, PostgreSQL, Redis, Influxdb
+- Flask, Seaborn, Pandas, BS4, Marshmallow, Swagger
 
 ## 🌱 Studying
 - English
 - NLP
 - Rust, go, Ruby
+- Kubernates
