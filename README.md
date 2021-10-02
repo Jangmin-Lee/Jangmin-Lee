@@ -20,13 +20,13 @@ Hi 👋 Nice to see you!
 - Rust (Beginner)
 - TypeScript (Beginner)
 - Scala (Beginner)
-- go (Beginner)
-- ruby (Beginner)
+- Go (Beginner)
+- Ruby (Beginner)
 
 
 ## ⚡ Stacks
-- Infra : terraform + ansible, aws kr/ cn region, naver-gov/ fin cloud
-- Devops : jenkins, grafana, telegraf, Kafka, ElasticSearch, rabbitMQ, Kibana, Amplitude, Github Action
+- Infra : terraform + ansible, aws, naver-gov/ fin cloud
+- Devops : jenkins, grafana, telegraf, Kafka, ElasticSearch, rabbitMQ, Kibana, Amplitude, Github Action, prometheus
 - DB : MariaDB, MySQL, PostgreSQL, Redis, Influxdb
 - Flask, Seaborn, Pandas, BS4, Marshmallow, Swagger
 
