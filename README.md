@@ -9,10 +9,10 @@ Hi 👋 Nice to see you!
 - KAIST Developer club include (2016.7 ~ 2019.10)
 - KAIST Developer club include President (2018 ~ 2019.10)
 - @tanker-fund as a Backend Developer (2019.10 ~ 2020.11)
+- @returnzero devops & Backend Developer (2020.11 ~ 2022.10)
 
 ## 🔭 Working on
-- @returnzero devops & Backend Developer (2020.11 ~ )
-
+- KAIST (Undergraduate)
 
 ## 💬 Languages
 - Python (Intermediate)
