@@ -18,10 +18,8 @@ Hi 👋
 - Python (Intermediate)
 - Go (Intermediate)
 - Groovy (Beginner)
-- Rust (Beginner)
 - TypeScript (Beginner)
-- Scala (Beginner)
-- Ruby (Beginner)
+- Dart (Beginner)
 
 ## ⚡ Stacks
 - Infra : terraform + ansible, aws, naver-gov/ fin cloud, gcp
@@ -31,5 +29,5 @@ Hi 👋
 
 ## 🌱 Studying
 - TOEFL
-- Vision : 3D reconstruction, surface, img2img
-- Golang
+- Vision : 3D reconstruction, surface, diffusion
+- Golang, Dart
