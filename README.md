@@ -13,6 +13,7 @@ Hi 👋
 - KAIST Developer club include President (2018 ~ 2019.10)
 - @tanker-fund Backend Developer (2019.10 ~ 2020.11)
 - @returnzero devops & Backend Developer (2020.11 ~ 2022.10)
+- @pricewaterhousecoopers Generative AI consulting (2024.01 ~ )
 
 ## 💬 Languages
 - Python (Intermediate)
