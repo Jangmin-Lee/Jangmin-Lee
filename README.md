@@ -3,7 +3,7 @@
 Hi 👋
 
 ## 🤔 Current
-- KAIST School of computing (2016.3 ~ 2024.03)
+- KAIST School of computing (2016.3 ~ 2024.08)
 
 ## Bio
 - Crawler & Backend developer (Part time) at @BABLABS (2017 ~ 2019)
