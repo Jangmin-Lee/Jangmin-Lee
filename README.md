@@ -9,7 +9,7 @@ Hi 👋
 - Crawler & Backend developer (Part time) at @BABLABS (2017 ~ 2019)
 - @tanker-fund Backend Developer (2019.10 ~ 2020.11)
 - @returnzero devops & Backend Developer (2020.11 ~ 2022.10)
-- 
+
 
 ## Extracurricular Activities
 - KAIST System Security LAB (2019.1 ~ 2019.7)
