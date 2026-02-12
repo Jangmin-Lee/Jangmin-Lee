@@ -3,9 +3,10 @@
 Hi 👋
 
 ## 🤔 Current
-- @pricewaterhousecoopers Generative AI consulting (2024.01 ~ )
+- @skillbench Product Manager (2025.12 ~ )
 
 ## Work Experience
+- @pricewaterhousecoopers Generative AI consulting (2024.01 ~ 2025.12)
 - Crawler & Backend developer (Part-time) at @BABLABS (2017 ~ 2019)
 - @tanker-fund Backend Developer (2019.10 ~ 2020.11)
 - @returnzero DevOps & Backend Developer (2020.11 ~ 2022.10)
